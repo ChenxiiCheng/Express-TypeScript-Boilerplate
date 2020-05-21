@@ -12,11 +12,11 @@
 
 - Put similar type configuration parameters of .env file in the same file and export default {}
 
-### 2. Controller Directory
+### 2. Controllers Directory
 
 > MVC - Controller | alias @controllers/
 
-### 3. Route Directory
+### 3. Routes Directory
 
 > MVC - Route | alias @routes/
 
