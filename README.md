@@ -1,8 +1,6 @@
 ## Express.js + TypeScript + Mongoose/TypeORM => Boilerplate
 
-> Encapsulate express framework with typescript, and configure commonly used express third-party packages.
-
-> For more details about typescript config, see tsconfig.json in the root directory.
+> Encapsulate express framework with typescript, and configure commonly used express third-party packages. For more details about typescript config, see tsconfig.json in the root directory.
 
 ### 0. .env file
 
